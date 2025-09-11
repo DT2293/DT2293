@@ -1,42 +1,41 @@
-## Hi there 👋
+👋 Trần Công Dũng (DT2293)
+Sofware Developer | Specializing in Flutter, IoT, and Fintech Solutions
+I'm a passionate full-stack developer with expertise in building scalable, high-performance applications. My focus spans Asp .Net, Flutter, IoT platform, leveraging modern frameworks and cloud technologies to deliver innovative solutions.
 
-**DT2293/DT2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Projects: Development on Project_Fintech (Learn Azure-powered fintech platform)  
+🚀 Currently Learning
+  I am currently focusing on end-to-end **AI/ML integrations**:
+  - Designing and training custom ML models on real-world datasets
+  - Automating workflows and pipelines with **Apache Airflow**
+  - Managing experiment tracking, metrics, and versioning with **MLflow**
+  - Developing and deploying model inference APIs using **FastAPI / Flask**
+  - Scaling solutions on **cloud-native platforms** with Docker & Kubernetes
+  💬 Ask me about: IoT, Flutter, C#, cloud deployments, or fintech solutions  
+📫 Reach me: LinkedIn: www.linkedin.com/in/dũng-trần-công-22m0903 | Email: Tcddungtran@gmail.com  
+⚡ Fun Fact: I built my first IoT prototype using a Raspberry Pi at age 16!
 
-Here are some ideas to get you started:
+🛠 Technical Expertise
+Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# Hi 👋, I'm Trần Công Dũng (DT2293)
+C#, Dart, PHP, Python, JavaScript
 
-**Full-stack Developer | Flutter & IoT Enthusiast | C# / Dart / PHP**
+Frameworks & Technologies
 
-- 🔭 Current Project: [Project_Fintech](https://github.com/DT2293/Project_Fintech)
-- 🌱 Learning AI/ML and advanced Flutter
-- 💬 Ask me about IoT, Flutter, Node.js, C#
+Frontend/Mobile: Flutter 
+Backend: ASP.NET Core, Node Js  
+Databases: PostgreSQL, SQl Server, MongoDB
+Cloud Platforms: Microsoft Azure (Fintech), Firebase (IoT)  
+DevOps: Docker, Git, CI/CD pipelines
 
-## 🛠 Skills
-**Languages:** C#, Dart, PHP, Python  
-**Frameworks:** Flutter, ASP.NET Core, Node.js  
-**Tools:** Git, Docker, PostgreSQL, MongoDB  
+☁️ Cloud Integrations
+Azure: Scalable infrastructure and microservices for Project_Fintech
 
-## 📊 GitHub Stats
-![DT2293's GitHub stats](https://github-readme-stats.vercel.app/api?username=DT2293&show_icons=true&theme=radical)
+📊 GitHub Stats
 
-## 📌 Pinned Repos
-- [Vivimart_app](https://github.com/DT2293/Vivimart_app) (C#)
-- [bookphp](https://github.com/DT2293/bookphp) (PHP)
-- [quizzapi](https://github.com/DT2293/quizzapi) (C#)
-- [IOTAPP](https://github.com/DT2293/IOTAPP) (Dart)
-- [logistics_mobile](https://github.com/DT2293/logistics_mobile) (Dart)
-- [Project_Fintech](https://github.com/DT2293/Project_Fintech) (C#)
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DT2293&layout=compact&theme=radical)
+📌 Featured Projects
+
+Project_Fintech (C#, Azure): A secure, cloud-native fintech platform for seamless financial transactions.  
+IOTAPP (Dart, Firebase): Real-time IoT monitoring and control mobile app.    
+Logistics_mobile (Dart): Mobile app for logistics and supply chain management.
 
