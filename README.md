@@ -12,7 +12,9 @@ I'm a passionate full-stack developer with expertise in building scalable, high-
     - Developing and deploying model inference APIs using **FastAPI / Flask**
     - Scaling solutions on **cloud-native platforms** with Docker & Kubernetes
     💬 Ask me about: IoT, Flutter, C#, cloud deployments, or fintech solutions  
-📫 Reach me: LinkedIn: www.linkedin.com/in/dũng-trần-công-22m0903 | Email: Tcddungtran@gmail.com  
+📫 Reach me: 
+  LinkedIn: www.linkedin.com/in/dũng-trần-công-22m0903 
+  Email: Tcddungtran@gmail.com  
 ⚡ Fun Fact: I built my first IoT prototype using a Raspberry Pi at age 16!
 
 🛠 Technical Expertise
