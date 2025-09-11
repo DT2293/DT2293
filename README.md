@@ -5,7 +5,6 @@ I'm a passionate full-stack developer with expertise in building scalable, high-
 🔭 Current Projects: Development on Project_Fintech (Learn Azure-powered fintech platform)  
 🚀 Currently Learning
   I am currently focusing on end-to-end **AI/ML integrations**:
-  
     - Designing and training custom ML models on real-world datasets
     - Automating workflows and pipelines with **Apache Airflow**
     - Managing experiment tracking, metrics, and versioning with **MLflow**
@@ -13,8 +12,9 @@ I'm a passionate full-stack developer with expertise in building scalable, high-
     - Scaling solutions on **cloud-native platforms** with Docker & Kubernetes
     💬 Ask me about: IoT, Flutter, C#, cloud deployments, or fintech solutions  
 📫 Reach me: 
-  LinkedIn: www.linkedin.com/in/dũng-trần-công-22m0903 
-  Email: Tcddungtran@gmail.com  
+  - LinkedIn: www.linkedin.com/in/dũng-trần-công-22m0903 
+  
+  - Email: Tcddungtran@gmail.com  
 ⚡ Fun Fact: I built my first IoT prototype using a Raspberry Pi at age 16!
 
 🛠 Technical Expertise
