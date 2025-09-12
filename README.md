@@ -3,6 +3,7 @@ Sofware Developer | Specializing in Flutter, IoT, and Fintech Solutions
 I'm a passionate full-stack developer with expertise in building scalable, high-performance applications. My focus spans Asp .Net, Flutter, IoT platform, leveraging modern frameworks and cloud technologies to deliver innovative solutions.
 
 🔭 Current Projects: Development on Project_Fintech (Learn Azure-powered fintech platform)  
+
 🚀 Currently Learning
   I am currently focusing on end-to-end **AI/ML integrations**:
     - Designing and training custom ML models on real-world datasets
@@ -10,7 +11,8 @@ I'm a passionate full-stack developer with expertise in building scalable, high-
     - Managing experiment tracking, metrics, and versioning with **MLflow**
     - Developing and deploying model inference APIs using **FastAPI / Flask**
     - Scaling solutions on **cloud-native platforms** with Docker & Kubernetes
-    💬 Ask me about: IoT, Flutter, C#, cloud deployments, or fintech solutions  
+    💬 Ask me about: IoT, Flutter, C#, cloud deployments, or fintech solutions
+    
 📫 Reach me: 
   - LinkedIn: www.linkedin.com/in/dũng-trần-công-22m0903 
   
