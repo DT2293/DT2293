@@ -45,7 +45,6 @@ Azure – Scalable infrastructure & microservices for Project_Fintech
 
 ### 📊 GitHub Stats
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DT2293&theme=gruvbox)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DT2293&layout=compact&theme=radical)  
 
 ---
