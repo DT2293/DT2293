@@ -7,10 +7,10 @@ Full-stack developer specializing in scalable, high-performance applications wit
 
 **Languages:** C#, Dart, PHP, Python, JavaScript  
 **Frontend/Mobile:** Flutter  
-**Backend:** ASP.NET Core, Node.js, Laravel  
-**Databases:** PostgreSQL, MongoDB, Firebase  
+**Backend:** ASP.NET Core, Node.js
+**Databases:** PostgreSQL, MongoDB  
 **Cloud:** Microsoft Azure  
-**DevOps:** Docker, Git, CI/CD
+**DevOps:** Docker, Git
 
 ## 🚀 Current Focus
 
