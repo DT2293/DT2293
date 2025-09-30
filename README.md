@@ -19,7 +19,6 @@ Full-stack developer specializing in scalable, high-performance applications wit
 - Workflow automation with Apache Airflow
 - Experiment tracking and versioning using MLflow
 - API development with FastAPI/Flask
-- Cloud-native deployment with Docker and Kubernetes
 
 **Active Project:** Azure-powered fintech platform development
 
