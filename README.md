@@ -1,7 +1,6 @@
 # Trần Công Dũng (DT2293)
 **Software Developer /**
-
-Full-stack developer specializing in scalable, high-performance applications with expertise in modern frameworks and cloud technologies.
+Software developer specializing in scalable, high-performance applications with expertise in modern frameworks and cloud technologies.
 
 ## 🔧 Technical Stack
 
