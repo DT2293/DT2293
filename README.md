@@ -15,10 +15,8 @@
 **Enterprise & SAP Modernization:**
 - Building **Cloud-native extensions** using SAP CAP & SAP BTP
 - Developing role-based UI/UX with **SAP Fiori & UI5**
-- Designing high-performance **.NET Microservices** integrated with S/4HANA
 - Custom API development (OData/REST) for ERP systems
 
-**Active Project:** Azure-powered fintech platform & SAP S/4HANA integration
 
 ## 📈 Featured Repositories
 
