@@ -1,33 +1,32 @@
 # Trần Công Dũng (DT2293)
-**Software Developer /**
-Software developer specializing in scalable, high-performance applications with expertise in modern frameworks and cloud technologies.
+**Software Developer / .NET & SAP Specialist** Software developer specializing in scalable, high-performance applications with expertise in **.NET Ecosystem** and modern **SAP S/4HANA** development.
 
 ## 🔧 Technical Stack
 
-**Languages:** C#, Dart, PHP, Python, JavaScript  
-**Frontend/Mobile:** Flutter  
-**Backend:** ASP.NET Core, Node.js
-**Databases:** PostgreSQL, MongoDB  
-**Cloud:** Microsoft Azure  
-**DevOps:** Docker, Git
+**Languages:** C#, JavaScript (ES6+), Dart, SQL, Python  
+**SAP Ecosystem:** SAP CAP (Node.js), SAP Fiori/UI5, OData, S/4HANA  
+**Backend:** **ASP.NET Core (Expert)**, Node.js, Entity Framework  
+**Frontend/Mobile:** Flutter, React  
+**Databases:** SAP HANA, PostgreSQL, MS SQL Server  
+**Cloud & DevOps:** SAP BTP, Microsoft Azure, Docker, Git
 
 ## 🚀 Current Focus
 
-**ML/AI Engineering Pipeline:**
-- Custom model development and training on production datasets
-- Workflow automation with Apache Airflow
-- Experiment tracking and versioning using MLflow
-- API development with FastAPI/Flask
+**Enterprise & SAP Modernization:**
+- Building **Cloud-native extensions** using SAP CAP & SAP BTP
+- Developing role-based UI/UX with **SAP Fiori & UI5**
+- Designing high-performance **.NET Microservices** integrated with S/4HANA
+- Custom API development (OData/REST) for ERP systems
 
-**Active Project:** Azure-powered fintech platform development
+**Active Project:** Azure-powered fintech platform & SAP S/4HANA integration
 
 ## 📈 Featured Repositories
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [Project_Fintech](https://github.com/DT2293/Project_Fintech) | C#, Azure | Cloud-native fintech platform with microservices architecture |
+| [Project_Fintech](https://github.com/DT2293/Project_Fintech) | **.NET**, **SAP CAP** | Cloud-native fintech platform integrated with S/4HANA |
 | [IOTAPP](https://github.com/DT2293/IOTAPP) | Dart, Firebase | Real-time IoT monitoring and control system |
-| [logistics_mobile](https://github.com/DT2293/logistics_mobile) | Dart | Supply chain management mobile application |
+| [logistics_mobile](https://github.com/DT2293/logistics_mobile) | Dart, **.NET** | Supply chain mobile application with SAP backend integration |
 
 ## 📊 GitHub Analytics
 
@@ -40,8 +39,9 @@ Software developer specializing in scalable, high-performance applications with 
 
 ---
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
