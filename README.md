@@ -3,9 +3,9 @@
 
 ## 🔧 Technical Stack
 
-**Languages:** C#, JavaScript (ES6+), Dart, SQL, Python  
+**Languages:** C#, JavaScript , Dart, SQL, Python  
 **SAP Ecosystem:** SAP CAP (Node.js), SAP Fiori/UI5, OData, S/4HANA  
-**Backend:** **ASP.NET Core (Expert)**, Node.js, Entity Framework  
+**Backend:** **ASP.NET Core , Node.js, Entity Framework  
 **Frontend/Mobile:** Flutter, React  
 **Databases:** SAP HANA, PostgreSQL, MS SQL Server  
 **Cloud & DevOps:** SAP BTP, Microsoft Azure, Docker, Git
