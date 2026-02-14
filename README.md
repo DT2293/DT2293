@@ -1,5 +1,5 @@
 # Trần Công Dũng (DT2293)
-**Software Developer / .NET & SAP Specialist** Software developer specializing in scalable, high-performance applications with expertise in **.NET Ecosystem** and modern **SAP S/4HANA** development.
+**Software Developer / .NET & SAP Specialist** Software developer specializing in scalable, high-performance applications with expertise in **.NET Ecosystem** and modern **SAP S/4HANA** development (CAP & Fiori).
 
 ## 🔧 Technical Stack
 
@@ -28,14 +28,17 @@
 | [IOTAPP](https://github.com/DT2293/IOTAPP) | Dart, Firebase | Real-time IoT monitoring and control system |
 | [logistics_mobile](https://github.com/DT2293/logistics_mobile) | Dart, **.NET** | Supply chain mobile application with SAP backend integration |
 
-## 📊 GitHub Analytics
+## 📊 Skills & Tech Proficiency
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DT2293&layout=compact&theme=github_dark&hide_border=true)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,nodejs,sap,azure,docker,flutter,postgres,mongodb,github,git" />
+</p>
 
 ## 🤝 Professional Contact
 
-**LinkedIn:** [dũng-trần-công](https://www.linkedin.com/in/dũng-trần-công-22m0903)  
-**Email:** Tcddungtran@gmail.com
+* **LinkedIn:** [dũng-trần-công](https://www.linkedin.com/in/dũng-trần-công-22m0903)
+* **Email:** Tcddungtran@gmail.com
+* **GitHub:** [DT2293](https://github.com/DT2293)
 
 ---
 
